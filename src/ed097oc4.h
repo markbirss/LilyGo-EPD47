@@ -24,6 +24,7 @@
 #define D1 GPIO_NUM_32
 #define D0 GPIO_NUM_33
 
+
 void epd_base_init(uint32_t epd_row_width);
 void epd_poweron();
 void epd_poweroff();
